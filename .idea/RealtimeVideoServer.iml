@@ -7,6 +7,14 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/backend/src/version2/templates" />
+        <option value="$MODULE_DIR$/backend/src/project/templates" />
+      </list>
+    </option>
+  </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="pytest" />
     <option name="PROJECT_TEST_RUNNER" value="pytest" />

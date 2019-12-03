@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="562d7108-f609-4a26-ae4e-1dda971d5da1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/.idea/frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@babel/parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@babel/parser/typings/babel-parser.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@babel/types/lib/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@babel/types/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__core/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__core/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__generator/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__generator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__template/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__template/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__traverse/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__traverse/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/eslint-visitor-keys/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/eslint-visitor-keys/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-lib-coverage/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-lib-coverage/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-lib-report/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-lib-report/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-reports/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-reports/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/json-schema/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/json-schema/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/q/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/q/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/stack-utils/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/stack-utils/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs-parser/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs-parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs/yargs.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/dummy.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TyuT5T3Reh1bKIm8ifwLtinsli" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="backend" type="Python.FlaskServer">
+      <module name="backend" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="562d7108-f609-4a26-ae4e-1dda971d5da1" name="Default Changelist" comment="" />
+      <created>1574444660674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574444660674</updated>
+      <workItem from="1574444663847" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/backend$backend.coverage" NAME="backend Coverage Results" MODIFIED="1574444694746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
