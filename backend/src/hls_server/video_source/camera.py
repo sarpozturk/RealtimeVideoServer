@@ -9,6 +9,7 @@ class VideoCamera(object):
         # from a webcam, comment the line below out and use a video file
         # instead.
         self.video = cv2.VideoCapture(0)
+        self.video.set(cv2.CAP_PROP_FPS, 60)
         # self.video.set(cv2.CAP_PROP_FOURCC, cv2.VideoWriter_fourcc(*'H264'))
         # If you decide to use video.mp4, you must have this file in the folder
         # as the video_source_server.py.
