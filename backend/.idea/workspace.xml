@@ -2,63 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="562d7108-f609-4a26-ae4e-1dda971d5da1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@babel/parser/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@babel/parser/typings/babel-parser.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@babel/types/lib/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@babel/types/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__core/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__core/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__generator/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__generator/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__template/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__template/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__traverse/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__traverse/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/eslint-visitor-keys/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/eslint-visitor-keys/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-lib-coverage/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-lib-coverage/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-lib-report/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-lib-report/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-reports/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-reports/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/json-schema/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/json-schema/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/q/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/q/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/stack-utils/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/stack-utils/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs-parser/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs-parser/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs/yargs.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/src/serviceWorker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/dummy.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static_server/static/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/javascript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/javascript2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hls_server/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/static_server/templates/live.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/static_server/ffmpegCommand.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/src/motion_detection/MotionDetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/src/motion_detection/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/socket_server_test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/socket_server_test/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/socket_server_test/socket_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static_server/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/static_server/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static_server/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/static_server/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static_server/templates/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/static_server/templates/video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.idea/frontend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@babel/parser/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@babel/parser/typings/babel-parser.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@babel/types/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@babel/types/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__core/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__core/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__generator/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__generator/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__template/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__template/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__traverse/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/babel__traverse/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/eslint-visitor-keys/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/eslint-visitor-keys/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-lib-coverage/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-lib-coverage/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-lib-report/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-lib-report/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-reports/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/istanbul-reports/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/json-schema/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/json-schema/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/q/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/q/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/stack-utils/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/stack-utils/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs-parser/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs-parser/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/node_modules/@types/yargs/yargs.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/serviceWorker.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,6 +134,8 @@
       <option name="presentableId" value="Default" />
       <updated>1574444660674</updated>
       <workItem from="1574444663847" duration="58000" />
+      <workItem from="1575667438387" duration="1139000" />
+      <workItem from="1575712141618" duration="416000" />
     </task>
     <servers />
   </component>
@@ -132,7 +147,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

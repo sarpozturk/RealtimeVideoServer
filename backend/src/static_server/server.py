@@ -1,6 +1,6 @@
 # video_source_server.py
-import cv2
-from flask import Flask, render_template, redirect
+
+from flask import Flask, render_template
 
 app = Flask(__name__, static_folder='static')
 
@@ -13,6 +13,11 @@ def index():
 @app.route('/video')
 def video():
     return render_template('video.html')
+
+
+@app.route('/live')
+def live():
+    return render_template('live.html')
 
 
 if __name__ == '__main__':
